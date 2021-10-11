@@ -171,13 +171,14 @@ table {
     justify-content: space-between;
 }
 i{
-    font-size: 22px
+    font-size: 22px;
+    cursor: pointer;
 }
 button{
     border-radius: 5px;
     padding: 5px;
     background-color: brown;
-    color: black;
+    color:white;
     border:none;
     outline: chocolate;
     font-size: 16px;
